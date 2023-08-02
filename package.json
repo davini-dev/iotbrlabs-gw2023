@@ -1,0 +1,20 @@
+{
+  "name": "iotbrlabs-gw2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type" : "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "w3bstream-client-js": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.4"
+  }
+}
